@@ -52,6 +52,7 @@ public class SATIPServer {
 	private final static Pattern cseq= Pattern.compile("CSeq: *(\\d+)");
 	private final static Pattern transport= Pattern.compile("Transport: RTP/AVP/?U?D?P?;.*cast;(destination=(.*);)?client_port=(.*)");
 	private final static Pattern session_matcher =Pattern.compile("Session:(.*)");
+
 	public SATIPServer(InetAddress satip_server_address,int listen_port)
 	{
 	//	sender=sender_;
@@ -154,7 +155,7 @@ public class SATIPServer {
 					   response+="CSeq:"+ mCseq+"\r\n";
 					   response+="Public:OPTIONS,SETUP,PLAY,TEARDOWN,DESCRIBE\r\n";
 					   response+="\r\n";//\r\n";
-				out.write(response.getBytes(StandardCharsets.UTF_8));
+				out.write(response.getBytes("UTF-8"));
 				out.flush();
 				satipclient.Option();
 				log.finer("Send Message\n"+response);
@@ -192,6 +193,7 @@ public class SATIPServer {
 				   //    sdp+="a=control:rtsp://"+clientSocket.getLocalAddress().getHostAddress()+"/\r\n";
 				       sdp+="m=video 0 RTP/AVP 33\r\n";
 				       sdp+="c=IN IP4 0.0.0.0\r\n";
+				       sdp+="a=rtpmap:33 MP2T/90000\r\n";//Android  required this stupid line(missing cause exception)
 				       sdp+="a=control:stream=39\r\n";
 				       //sdp+="a=control:stream=34\r\n";
 				      // sdp+="a=control:rtsp://192.168.155.232/?src=1\r\n";
@@ -208,7 +210,7 @@ public class SATIPServer {
 					   response+="\r\n";
 					   response+=sdp;
 					
-				out.write(response.getBytes(StandardCharsets.UTF_8));
+				out.write(response.getBytes("UTF-8"));
 				out.flush();	   
 			
 				log.finer("Send Message\n"+response);
@@ -262,7 +264,7 @@ public class SATIPServer {
 				else
 					   response+="Transport:RTP/AVP;unicast;destination="+satipclient.GetDestination() +";source="+mSatipServer.getHostAddress()+";client_port="+satipclient.GetClientPort()/*+";server_port="+satipclient.GetServerPort()*/ +"\r\n";
 					   response+="\r\n";//\r\n";
-				out.write(response.getBytes(StandardCharsets.UTF_8));
+				out.write(response.getBytes("UTF-8"));
 				out.flush();
 				Session.incrementAndGet();
 				log.finer("Send Message\n"+response+"-------");
@@ -295,12 +297,12 @@ public class SATIPServer {
 				//
 				String response="RTSP/1.0 200 OK\r\n";
 					   response+="CSeq:"+ mCseq+"\r\n";
-					   response+="RTP-INFO:url=rtsp://10.0.0.10\r\n";
+					   response+="RTP-INFO:url=rtsp://10.0.0.10;seq=33333;rtptime=100\r\n";
 					   //response+="RTP-Info:"+satipclient.GetRTPInfo() +"\r\n";
 					   response+="Session:"+lSession+"\r\n";
-					   response+="Range:npt=0.000-\r\n";
+					   //response+="Range:npt=0.000-\r\n";
 					   response+="\r\n";//\r\n";
-				out.write(response.getBytes(StandardCharsets.UTF_8));
+				out.write(response.getBytes("UTF-8"));
 				out.flush();
 				Session.incrementAndGet();
 				log.finer("Send Message\n"+response+"-------");
@@ -334,7 +336,7 @@ public class SATIPServer {
 					//   response+="Session:"+lSession+"\r\n";
 					//   response+="Range: npt=20-25\r\n";
 					   response+="\r\n";//\r\n";
-				out.write(response.getBytes(StandardCharsets.UTF_8));
+				out.write(response.getBytes("UTF-8"));
 				out.flush();
 				Session.incrementAndGet();
 				log.finer("Send Message TEARDOWN\n"+response+"-------");
@@ -349,8 +351,9 @@ public class SATIPServer {
 			log.finer("------");
 		}
 
-		protected void finalize()
-		{
+		@Override
+        protected void finalize() {
+
 			try
 			{
 				if(clientSocket!=null)
@@ -360,7 +363,12 @@ public class SATIPServer {
 			{
 				e.printStackTrace();
 			}
-		}
+            try {
+                super.finalize();
+            } catch (Throwable throwable) {
+                throwable.printStackTrace();
+            }
+        }
 		
 
 

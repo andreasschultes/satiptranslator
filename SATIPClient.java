@@ -81,6 +81,22 @@ public class SATIPClient {
 	{
 		return mTimeout;
 	}
+	public InetAddress GetLocalAddress() 
+	{
+		if(mSocket==null)
+		{
+			try {
+				mSocket=new Socket(mHost,554);
+			} catch (UnknownHostException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		return mSocket.getLocalAddress();
+	}
 	
 	public SATIPClient(InetAddress address)
 	{
@@ -88,6 +104,11 @@ public class SATIPClient {
 		mHost=address.getHostAddress();
 		
 	}
+	public void Setup(String query,String clientPort) throws SocketException, IOException
+	{
+		Setup(query,null,clientPort);
+	}
+	
 	public void Setup(String query,String destination, String clientPort) throws IOException,SocketException
 	{
 		if(mSocket==null)
