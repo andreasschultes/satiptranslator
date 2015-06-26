@@ -1,0 +1,3421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
+	<title>Wiedergabeliste</title>
+	<trackList>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12582&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1283,163,92,0</location>
+			<title>A LA DEMANDE</title>
+			<creator> CSAT</creator>
+			<album>TV Französisch</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12552&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1059,39,38,0</location>
+			<title>BFM Business</title>
+			<creator> SES ASTRA</creator>
+			<album>TV Französisch</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12552&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,2170,2171,2172,345</location>
+			<title>BFM TV</title>
+			<creator> SES ASTRA</creator>
+			<album>TV Französisch</album>
+			<image>http://upload.wikimedia.org/wikipedia/fr/3/30/Bfm_tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12552&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,2170,2171,2172,345</location>
+			<title>BFM TV</title>
+			<creator> SES ASTRA</creator>
+			<album>TV Französisch</album>
+			<image>http://upload.wikimedia.org/wikipedia/fr/3/30/Bfm_tv.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,820,0,821,0</location>
+			<title>Antenne Brandenburg</title>
+			<creator> ARD rbb</creator>
+			<album>Radio</album>
+			
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,140,0,141,0</location>
+			<title>B5 aktuell</title>
+			<creator>ARD BR</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,180,0,181,0</location>
+			<title>B5 plus</title>
+			<creator>ARD BR</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11954&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,700,0,710,0</location>
+			<title>DKULTUR</title>
+			<creator> ZDFvision</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11954&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,800,0,810,0</location>
+			<title>DLF</title>
+			<creator> ZDFvision</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,104,0,368,0</location>
+			<title>domradio</title>
+			<creator> BetaDigital</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11954&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,500,0,510,0</location>
+			<title>DRadio DokDeb</title>
+			<creator> ZDFvision</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11954&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,411,0,410,0</location>
+			<title>DRadio Wissen</title>
+			<creator> ZDFvision</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,132,0,384,0</location>
+			<title>egoFM</title>
+			<creator> BetaDigital</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,110,0,320,0</location>
+			<title>ERF Plus</title>
+			<creator> BetaDigital</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,109,0,368,0</location>
+			<title>ERF Pop</title>
+			<creator> BetaDigital</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,154,0,354,0</location>
+			<title>ffn digital</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1134,0,434,0</location>
+			<title>FM4</title>
+			<creator> ORF</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,850,0,851,0</location>
+			<title>Fritz</title>
+			<creator> ARD rbb</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,111,0,1036,0</location>
+			<title>harmony.fm</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,109,0,1024,0</location>
+			<title>HIT RADIO FFH</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,135,0,400,0</location>
+			<title>HOPE Channel Radio</title>
+			<creator> BetaDigital</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,460,0,461,0</location>
+			<title>hr-iNFO</title>
+			<creator> ARD HR</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,152,0,702,0</location>
+			<title>Inselradio</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,119,0,528,0</location>
+			<title>JAM FM</title>
+			<creator> BetaDigital</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1170,0,1171,0</location>
+			<title>KIRAKA</title>
+			<creator> ARD WDR</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,133,0,336,0</location>
+			<title>Klassik Radio</title>
+			<creator> BetaDigital</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,111,0,384,0</location>
+			<title>Life Channel CH</title>
+			<creator> BetaDigital</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,630,0,631,0</location>
+			<title>N-JOY</title>
+			<creator> ARD NDR</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,110,0,1030,0</location>
+			<title>planet radio</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,160,0,161,0</location>
+			<title>PULS</title>
+			<creator> ARD BR</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12516&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,2162,0,132,0</location>
+			<title>Radio Freundes Dienst</title>
+			<creator> M7 Group</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,159,0,359,0</location>
+			<title>Radio Gloria</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,7289,0,1289,0</location>
+			<title>Radio Horeb</title>
+			<creator> Eurociel</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1140,0,440,0</location>
+			<title>RADIO MARIA</title>
+			<creator> Radio Maria Österreich</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,7292,0,1292,0</location>
+			<title>Radio neue Hoffnung</title>
+			<creator> RADIO Neue Hoffnung</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,155,0,355,0</location>
+			<title>Radio Paloma</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,163,0,363,0</location>
+			<title>Radio Regenbogen</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,153,0,353,0</location>
+			<title>radio top40</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,840,0,841,0</location>
+			<title>radioeins</title>
+			<creator> ARD rbb</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,101,0,304,0</location>
+			<title>ROCK ANTENNE</title>
+			<creator> BetaDigital</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12516&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,2160,0,119,0</location>
+			<title>RTL 1440</title>
+			<creator> M7 Group</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,7931,0,7932,0</location>
+			<title>RTL RADIO</title>
+			<creator> unknown</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,102,0,336,0</location>
+			<title>sunshine live</title>
+			<creator> BetaDigital</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1136,0,436,0</location>
+			<title>U1 Tirol</title>
+			<creator> U1 Tirol</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,450,0,451,0</location>
+			<title>YOU FM</title>
+			<creator> ARD HR</creator>
+			<album>Radio</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,520,0,521,0</location>
+			<title>MDR THÜRINGEN</title>
+			<creator> ARD MDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,550,0,551,0</location>
+			<title>MDR SPUTNIK</title>
+			<creator> ARD MDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,700,0,701,0</location>
+			<title>Bremen Eins</title>
+			<creator>ARD RB</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,720,0,721,0</location>
+			<title>Bremen Vier</title>
+			<creator>ARD RB</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,530,0,531,0</location>
+			<title>MDR FIGARO</title>
+			<creator> ARD MDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,560,0,561,0</location>
+			<title>MDR INFO</title>
+			<creator> ARD MDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,540,0,541,0</location>
+			<title>MDR JUMP</title>
+			<creator> ARD MDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,570,0,571,0</location>
+			<title>MDR KLASSIK</title>
+			<creator> ARD MDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,510,0,511,0</location>
+			<title>MDR S-ANHALT</title>
+			<creator> ARD MDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,670,0,671,0</location>
+			<title>NDR 1 Nieders.</title>
+			<creator> ARD NDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,660,0,661,0</location>
+			<title>NDR 1 Radio MV</title>
+			<creator> ARD NDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,600,0,601,0</location>
+			<title>NDR 2</title>
+			<creator> ARD NDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,640,0,641,0</location>
+			<title>NDR 90,3</title>
+			<creator> ARD NDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,690,0,691,0</location>
+			<title>NDR Blue</title>
+			<creator> ARD NDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12110&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,2500,2601,2602,2604</location>
+			<title>NDR FS HH</title>
+			<creator> ARD</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,620,0,621,0</location>
+			<title>NDR Info</title>
+			<creator> ARD NDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,680,0,681,0</location>
+			<title>NDR Info Spez.</title>
+			<creator> ARD NDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,610,0,611,0</location>
+			<title>NDR Kultur</title>
+			<creator> ARD NDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,650,0,651,0</location>
+			<title>NDR1WelleNord</title>
+			<creator> ARD NDR</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,710,0,711,0</location>
+			<title>Nordwestradio</title>
+			<creator> ARD RB</creator>
+			<album>Radio Lokal Nord</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,800,0,801,0</location>
+			<title>Inforadio</title>
+			<creator> ARD rbb</creator>
+			<album>Radio Lokal Ost</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,810,0,811,0</location>
+			<title>Kulturradio</title>
+			<creator> ARD rbb</creator>
+			<album>Radio Lokal Ost</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,500,0,501,0</location>
+			<title>MDR1 SACHSEN</title>
+			<creator> ARD MDR</creator>
+			<album>Radio Lokal Ost</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,830,0,831,0</location>
+			<title>radioBERLIN 88,8</title>
+			<creator> ARD rbb</creator>
+			<album>Radio Lokal Ost</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,920,0,921,0</location>
+			<title>SR 3 Saarlandwelle</title>
+			<creator> ARD SR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,910,0,911,0</location>
+			<title>SR 2 KulturRadio</title>
+			<creator> ARD SR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,900,0,901,0</location>
+			<title>SR 1 Europawelle</title>
+			<creator> ARD SR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,112,0,352,0</location>
+			<title>ANTENNE BAYERN</title>
+			<creator> BetaDigital</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,100,0,101,0</location>
+			<title>Bayern 1</title>
+			<creator> ARD BR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,110,0,111,0</location>
+			<title>Bayern 2</title>
+			<creator>ARD BR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,120,0,121,0</location>
+			<title>BAYERN 3</title>
+			<creator>ARD BR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,150,0,151,0</location>
+			<title>BAYERN plus</title>
+			<creator>ARD BR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,130,0,131,0</location>
+			<title>BR-KLASSIK</title>
+			<creator>ARD BR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1060,0,1061,0</location>
+			<title>DASDING</title>
+			<creator> ARD SWR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1000,0,1001,0</location>
+			<title>SWR1 BW</title>
+			<creator> ARD SWR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1010,0,1011,0</location>
+			<title>SWR1 RP</title>
+			<creator> ARD SWR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1020,0,1021,0</location>
+			<title>SWR2</title>
+			<creator> ARD SWR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1030,0,1031,0</location>
+			<title>SWR3</title>
+			<creator> ARD SWR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1040,0,1041,0</location>
+			<title>SWR4 BW</title>
+			<creator> ARD SWR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1050,0,1051,0</location>
+			<title>SWR4 RP</title>
+			<creator> ARD SWR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1070,0,1071,0</location>
+			<title>SWRinfo</title>
+			<creator> ARD SWR</creator>
+			<album>Radio Lokal Süd</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1100,0,1101,0</location>
+			<title>1LIVE</title>
+			<creator> ARD WDR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1160,0,1161,0</location>
+			<title>1LIVE diggi</title>
+			<creator> ARD WDR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,400,0,401,0</location>
+			<title>hr1</title>
+			<creator> ARD HR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,410,0,411,0</location>
+			<title>hr2</title>
+			<creator> ARD HR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,420,0,421,0</location>
+			<title>hr3</title>
+			<creator> ARD HR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,430,0,431,0</location>
+			<title>hr4</title>
+			<creator> ARD HR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1110,0,1111,0</location>
+			<title>WDR 2</title>
+			<creator> ARD WDR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1120,0,1121,0</location>
+			<title>WDR 3</title>
+			<creator> ARD WDR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1130,0,1131,0</location>
+			<title>WDR 4</title>
+			<creator> ARD WDR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1140,0,1141,0</location>
+			<title>WDR 5</title>
+			<creator> ARD WDR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1150,0,1151,0</location>
+			<title>WDR Funkhaus Europa</title>
+			<creator> ARD WDR</creator>
+			<album>Radio Lokal West</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1121,0,421,0</location>
+			<title>OE1</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1122,0,422,0</location>
+			<title>OE1 DD</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1125,0,425,0</location>
+			<title>OE2 B</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1131,0,431,0</location>
+			<title>OE2 K</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1124,0,424,0</location>
+			<title>OE2 N</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1126,0,426,0</location>
+			<title>OE2 O</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1127,0,427,0</location>
+			<title>OE2 S</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1130,0,430,0</location>
+			<title>OE2 St</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1128,0,428,0</location>
+			<title>OE2 T</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1129,0,429,0</location>
+			<title>OE2 V</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1123,0,423,0</location>
+			<title>OE2 W</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1133,0,433,0</location>
+			<title>OE3</title>
+			<creator> ORF</creator>
+			<album>Radio Österreich</album>
+			<info>Radio</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11974&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,416,4061,4062,4064</location>
+			<title>Comedy Central/VIVA</title>
+			<creator> MTV Networks Europe</creator>
+			<album>TV Comedy</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,115,2047,2048,36</location>
+			<title>Disney Channel</title>
+			<creator> BetaDigital</creator>
+			<album>TV Comedy</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11974&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,420,4101,4102,4104</location>
+			<title>Nickelodeon (ger)</title>
+			<creator> MTV Networks Europe</creator>
+			<album>TV Comedy</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,107,1791,1792,34</location>
+			<title>NICKELODEON AT</title>
+			<creator> MTV Networks</creator>
+			<album>TV Comedy</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,106,1535,1536,33</location>
+			<title>Comedy Central / VIVA AT</title>
+			<creator> MTV Networks</creator>
+			<album>TV Comedy</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11934&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,400,410,422,441</location>
+			<title>D17 (eng)</title>
+			<creator> CSAT</creator>
+			<album>TV Englisch</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11377&amp;plts=off&amp;pol=v&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,1010,1011,1013,0</location>
+			<title>RT HD (1)</title>
+			<creator> GlobeCast</creator>
+			<album>TV Englisch</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,120,220,320,0</location>
+			<title>123-Damenwahl</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,128,228,328,0</location>
+			<title>Achtung Sexy TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,135,235,335,0</location>
+			<title>Babestation24</title>
+			<creator>MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,140,240,340,0</location>
+			<title>BunnyClub24</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,123,223,323,0</location>
+			<title>Date Line</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,115,215,315,0</location>
+			<title>Deutsche Girls 24 TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,118,218,318,0</location>
+			<title>Dreamgirls24 TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,127,227,327,0</location>
+			<title>Eros TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,139,239,339,0</location>
+			<title>EROTIKA TV - NEU!</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,119,219,319,0</location>
+			<title>Erotiksat24 TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12552&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,47,460,470,0</location>
+			<title>eUrotic</title>
+			<creator> SES ASTRA</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,124,224,324,0</location>
+			<title>Fotohandy</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,136,236,336,0</location>
+			<title>Fundorado TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,130,230,330,0</location>
+			<title>Heiss und Sexy TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11421&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=56&amp;pids=0,18,135,1263,1264,0</location>
+			<title>Hot Girls TV</title>
+			<creator> BetaDigital</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,106,206,306,0</location>
+			<title>Lustkanal24 TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,122,222,322,0</location>
+			<title>Maennersache TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,125,225,325,0</location>
+			<title>Mobile Sex</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,126,226,326,0</location>
+			<title>SEX-Kontakte</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,112,212,312,0</location>
+			<title>Sexy Club TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,129,229,329,0</location>
+			<title>Traumfrauen TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1107,1070,1071,0</location>
+			<title>VISIT-X.tv</title>
+			<album>TV Erotik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11934&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,400,410,421,441</location>
+			<title>D17 (fra)</title>
+			<creator> CSAT</creator>
+			<album>TV Französisch</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11856&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,200,210,221,241</location>
+			<title>I&gt;TELE</title>
+			<creator> CSAT</creator>
+			<album>TV Französisch</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12402&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,700,710,721,741</location>
+			<title>LCP</title>
+			<creator> CSAT</creator>
+			<album>TV Französisch</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11934&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1000,1010,1021,1041</location>
+			<title>TV5MONDE</title>
+			<creator> CSAT</creator>
+			<album>TV Französisch</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,99,3327,3328,0</location>
+			<title>DELUXE MUSIC</title>
+			<creator> BetaDigital</creator>
+			<album>TV Musik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,105,53,54,504</location>
+			<title>Deutsches Musik Fernsehen</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Musik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12693&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1021,3020,3021,0</location>
+			<title>gotv</title>
+			<creator> GoTV</creator>
+			<album>TV Musik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,134,242,342,0</location>
+			<title>nice</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Musik</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11778&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,3946,165,100,0</location>
+			<title>CNN Int.</title>
+			<creator> CNN</creator>
+			<album>TV News</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12227&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,260,2432,2433,0</location>
+			<title>EuroNews (ger)</title>
+			<creator> Globecast</creator>
+			<album>TV News</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,48,169,73,80</location>
+			<title>n-tv</title>
+			<creator> RTL World</creator>
+			<album>TV News</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12545&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,99,1023,1024,35</location>
+			<title>N24</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV News</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,98,255,256,0</location>
+			<title>N24 Austria</title>
+			<creator> BetaDigital</creator>
+			<album>TV News</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,7290,1290,2290,0</location>
+			<title>Sky News Intl</title>
+			<creator> SES ASTRA</creator>
+			<album>TV News</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10744&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=56&amp;pids=0,18,100,101,102,104</location>
+			<title>tagesschau24</title>
+			<creator> ARD</creator>
+			<album>TV News</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11053&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5400,5401,5402,5404</location>
+			<title>tagesschau24 HD</title>
+			<creator> ARD</creator>
+			<album>TV News</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10774&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=34&amp;pids=0,18,96,255,259,0</location>
+			<title>ANIXE HD</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,107,3311,3312,0</location>
+			<title>ANIXE SD</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,103,2559,2560,0</location>
+			<title>BB-MV Lokal-TV</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,108,3327,3328,44</location>
+			<title>DMAX</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,115,3583,3584,45</location>
+			<title>DMAX Austria</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,109,2815,2816,0</location>
+			<title>EBRU TV</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,101,1279,1280,0</location>
+			<title>joiz</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12052&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1027,166,167,169</location>
+			<title>Kabel 1 Austria</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12052&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1026,162,163,165</location>
+			<title>Kabel 1 Schweiz</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12545&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,98,767,768,34</location>
+			<title>kabel eins</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11671&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,107,3071,3072,43</location>
+			<title>Pro7 MAXX Austria</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12545&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,97,511,512,33</location>
+			<title>ProSieben</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12052&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1025,161,84,36</location>
+			<title>ProSieben Austria</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>166</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12545&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,101,1535,1536,37</location>
+			<title>ProSieben MAXX</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>167</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12052&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,32,289,290,33</location>
+			<title>ProSieben Schweiz</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>168</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1200,1201,1202,1204</location>
+			<title>Radio Bremen TV</title>
+			<creator> ARD</creator>
+			<album>TV Privat</album>
+			
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>169</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,107,2047,2048,0</location>
+			<title>REGIO TV</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>170</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,108,208,308,508</location>
+			<title>rhein main tv</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>171</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,122,1104,1105,38</location>
+			<title>RNF</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>172</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12227&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,200,201,202,203</location>
+			<title>RTL Austria</title>
+			<creator> RTL</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>173</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12227&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,610,611,612,614</location>
+			<title>RTL CH</title>
+			<creator> CBC</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1102,1020,1021,1025</location>
+			<title>RTL NITRO A</title>
+			<creator> RTL</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>175</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,44,163,104,105</location>
+			<title>RTL Television</title>
+			<creator> RTL World</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>176</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11568&amp;plts=off&amp;pol=v&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=56&amp;pids=0,18,1298,0,238,0</location>
+			<title>RTL2</title>
+			<creator> CSAT</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>177</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12227&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,400,401,402,403</location>
+			<title>RTL2 Austria</title>
+			<creator> RTL</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>178</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,53,173,146,84</location>
+			<title>RTLNITRO</title>
+			<creator> RTL</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>179</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12545&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,96,255,256,32</location>
+			<title>SAT.1</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>180</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12052&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1028,800,801,802</location>
+			<title>SAT.1 A</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>181</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12052&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,101,1535,1536,38</location>
+			<title>SAT.1 CH</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>182</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12545&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,100,1279,1280,36</location>
+			<title>SAT.1 Gold</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>183</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11671&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,106,2815,2816,42</location>
+			<title>SAT.1 Gold Österreich</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>184</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1210,1110,1111,1115</location>
+			<title>ServusTV Deutschland</title>
+			<creator> ServusTV</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11303&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,110,4920,4921,4925</location>
+			<title>ServusTV HD Deutschland</title>
+			<creator> ServusTV</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11303&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,109,3583,3584,3588</location>
+			<title>ServusTV HD Oesterreich</title>
+			<creator> ServusTV</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>187</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1211,2110,2111,2115</location>
+			<title>ServusTV Oesterreich (ger</title>
+			<creator> ServusTV</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>188</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,99,767,768,35</location>
+			<title>SIXX</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1106,1060,1061,1063</location>
+			<title>sixx Austria</title>
+			<creator> sevenonemedia</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>190</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10774&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=34&amp;pids=0,18,107,3071,3072,0</location>
+			<title>SOPHIA TV</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>191</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,45,165,120,65</location>
+			<title>SUPER RTL</title>
+			<creator> RTL World</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>192</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12227&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,500,501,502,503</location>
+			<title>SUPER RTL A</title>
+			<creator> RTL</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>193</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,52,172,145,82</location>
+			<title>SUPER RTL CH</title>
+			<creator> RTL</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>194</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,99,1535,1536,38</location>
+			<title>TELE 5</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>195</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,103,1535,1536,37</location>
+			<title>TLC</title>
+			<creator> BetaDigital</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>196</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,47,167,136,71</location>
+			<title>VOX</title>
+			<creator> RTL World</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>197</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12227&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,300,301,302,303</location>
+			<title>VOX Austria</title>
+			<creator> RTL</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>198</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12227&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,600,601,602,603</location>
+			<title>VOX CH</title>
+			<creator> RTL</creator>
+			<album>TV Privat</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>199</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,56,163,104,105</location>
+			<title>RTL FS</title>
+			<creator> RTL World</creator>
+			<album>TV Privat Neben</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>200</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,55,163,104,105</location>
+			<title>RTL HB NDS</title>
+			<creator> RTL World</creator>
+			<album>TV Privat Neben</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>201</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,54,163,104,105</location>
+			<title>RTL Regional NRW</title>
+			<creator> RTL World</creator>
+			<album>TV Privat Neben</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>202</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12545&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,103,255,256,32</location>
+			<title>SAT.1 Bayern</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat Neben</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>203</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12052&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,103,2047,2048,40</location>
+			<title>SAT.1 HH/SH</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat Neben</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>204</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12545&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,104,255,256,32</location>
+			<title>SAT.1 NRW</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat Neben</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>205</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12052&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,104,2047,2048,40</location>
+			<title>SAT.1 NS/Bremen</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat Neben</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>206</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12052&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,105,2047,2048,40</location>
+			<title>SAT.1 RhlPf/Hessen</title>
+			<creator> ProSiebenSat.1</creator>
+			<album>TV Privat Neben</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>207</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1103,1030,1031,0</location>
+			<title>Welt der Wunder</title>
+			<creator>prosieben.sat1</creator>
+			<album>TV Privat Neben</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>208</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,100,1023,1024,0</location>
+			<title>EWTN katholisches TV (deu</title>
+			<creator> BetaDigital</creator>
+			<album>TV Religion</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>209</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,97,767,768,0</location>
+			<title>GOD Channel</title>
+			<creator> BetaDigital</creator>
+			<album>TV Religion</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>210</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,105,511,512,0</location>
+			<title>HOPE Channel deutsch</title>
+			<creator> BetaDigital</creator>
+			<album>TV Religion</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>211</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,102,202,302,502</location>
+			<title>K-TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Religion</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>212</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,98,2559,2560,0</location>
+			<title>AstroTV</title>
+			<creator> BetaDigital</creator>
+			<album>TV Sonstiges</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>213</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1104,1040,1041,0</location>
+			<title>- LT1-OOE</title>
+			<album>TV Sonstiges</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>214</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12552&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,32,33,34,36</location>
+			<title>Bibel TV</title>
+			<creator>SES ASTRA</creator>
+			<album>TV Sonstiges</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>215</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1241,2410,2411,0</location>
+			<title>BTV</title>
+			<album>TV Sonstiges</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>216</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11377&amp;plts=off&amp;pol=v&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,1020,1021,1023,0</location>
+			<title>RT Esp HD (1)</title>
+			<creator> GLOBECAST</creator>
+			<album>TV Spanisch</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>217</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12227&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,280,101,103,102</location>
+			<title>Eurosport Deutschland</title>
+			<creator> SES Astra</creator>
+			<album>TV Sport</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>218</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,103,1023,1024,39</location>
+			<title>SPORT1</title>
+			<creator> BetaDigital</creator>
+			<album>TV Sport</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>219</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,105,2815,2816,32</location>
+			<title>1-2-3.tv</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>220</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10803&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=34&amp;pids=0,18,98,767,771,34</location>
+			<title>1-2-3.tv HD</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>221</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,143,53,54,504</location>
+			<title>ALT - SUCHLAUF STARTEN</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>222</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,100,3071,3072,0</location>
+			<title>Beauty TV</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>223</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,41,168,137,70</location>
+			<title>Channel 21</title>
+			<creator> RTL World</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>224</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12188&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,49,168,137,70</location>
+			<title>Channel 21 ALT</title>
+			<creator> CBC</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>225</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,113,1023,1024,35</location>
+			<title>Channel21</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>226</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,102,767,768,0</location>
+			<title>e8 television</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>227</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11273&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,310,3100,0,0</location>
+			<title>flimmit</title>
+			<creator> ORF</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>228</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12693&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1008,180,181,0</location>
+			<title>Folx TV</title>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>229</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,104,1279,1280,37</location>
+			<title>HSE24</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>230</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12227&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,259,512,660,576</location>
+			<title>HSE24 EXTRA</title>
+			<creator> SES Astra</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>231</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10803&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=34&amp;pids=0,18,97,511,515,33</location>
+			<title>HSE24 EXTRA HD</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>232</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10774&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=34&amp;pids=0,18,100,1279,1283,36</location>
+			<title>HSE24 HD</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>233</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,110,3071,3072,36</location>
+			<title>HSE24 TREND</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>234</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,108,2303,2304,0</location>
+			<title>JML Shop</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>235</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,116,1041,1042,0</location>
+			<title>Juwelo TV</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>236</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1213,2130,2131,0</location>
+			<title>L-TV/TVM</title>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>237</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12663&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1213,2130,2131,0</location>
+			<title>L-TV/TVM</title>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>238</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,97,511,512,0</location>
+			<title>ManouLenz.tv</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>239</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,114,1279,1280,0</location>
+			<title>MediaShop- Meine Einkaufs</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>240</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,100,255,256,0</location>
+			<title>MediaShop- Neuheiten</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>241</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10964&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,98,767,771,0</location>
+			<title>mediaspar HD</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>242</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,106,1791,1792,0</location>
+			<title>mediasparTV Homeshopping</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>243</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,101,511,512,0</location>
+			<title>meinTVshop</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>244</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12149&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,96,2047,2048,0</location>
+			<title>pearl.tv Shop</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>245</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,96,255,256,33</location>
+			<title>QVC</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>246</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10964&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,101,1535,1539,37</location>
+			<title>QVC BEAUTY &amp; STYLE HD</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>247</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12461&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,102,1791,1792,38</location>
+			<title>QVC BEAUTY&amp;STYLE</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>248</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12552&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1030,165,166,167</location>
+			<title>QVC Deutschland</title>
+			<creator> SES ASTRA</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>249</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10774&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=34&amp;pids=0,18,99,1023,1027,35</location>
+			<title>QVC HD</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>250</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12552&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1060,168,144,146</location>
+			<title>QVC PLUS</title>
+			<creator> SES ASTRA</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>251</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10803&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=34&amp;pids=0,18,100,1279,1283,36</location>
+			<title>QVC PLUS HD</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>252</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12693&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1009,190,191,0</location>
+			<title>RiC</title>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>253</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12634&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,133,233,333,0</location>
+			<title>Shop24Direct</title>
+			<creator> MEDIA BROADCAST</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>254</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11171&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=34&amp;pids=0,18,97,511,515,32</location>
+			<title>Sky INFO</title>
+			<creator> SKY</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>255</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12032&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,103,2815,2816,0</location>
+			<title>Sky Select</title>
+			<creator> SKY</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>256</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12480&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,97,2303,2304,40</location>
+			<title>Sonnenklar TV</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>257</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12575&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=23&amp;pids=0,18,96,255,259,32</location>
+			<title>sonnenklar.TV HD</title>
+			<creator> BetaDigital</creator>
+			<album>TV Werbung</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>258</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12402&amp;plts=off&amp;pol=v&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1201,1210,1224,1241</location>
+			<title>ARTE</title>
+			<creator> CSAT</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>259</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11954&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1100,1110,1120,1130</location>
+			<title>zdf.kultur</title>
+			<creator> ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>260</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11362&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,6400,6410,6420,6430</location>
+			<title>zdf.kultur HD</title>
+			<creator> ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>261</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1400,1401,1402,1404</location>
+			<title>ARD-alpha</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>262</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11954&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,200,210,220,230</location>
+			<title>3sat</title>
+			<creator>ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>263</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11348&amp;plts=off&amp;pol=v&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,6500,6510,6520,6530</location>
+			<title>3sat HD</title>
+			<creator>ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>264</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11494&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5110,5111,5112,5114</location>
+			<title>arte HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>265</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11837&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,100,101,102,104</location>
+			<title>Das Erste</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>266</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11494&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5100,5101,5102,5104</location>
+			<title>Das Erste HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>267</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11053&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5410,5411,5412,5414</location>
+			<title>Einsfestival HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>268</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11053&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5420,5421,5422,5424</location>
+			<title>EinsPlus HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>269</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11954&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,300,310,320,330</location>
+			<title>KiKA</title>
+			<creator> ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>270</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11348&amp;plts=off&amp;pol=v&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,6600,6610,6620,6630</location>
+			<title>KiKA HD</title>
+			<creator> ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>271</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11583&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5260,5261,5262,5264</location>
+			<title>PHOENIX HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>272</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11954&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,100,110,120,130</location>
+			<title>ZDF</title>
+			<creator> ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>273</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11362&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,6100,6110,6120,6130</location>
+			<title>ZDF HD</title>
+			<creator> ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>274</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11954&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,650,660,670,680</location>
+			<title>zdf_neo</title>
+			<creator> ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>275</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11362&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,6300,6310,6320,6330</location>
+			<title>zdf_neo HD</title>
+			<creator> ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>276</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11954&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,600,610,620,630</location>
+			<title>ZDFinfo</title>
+			<creator> ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>277</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11348&amp;plts=off&amp;pol=v&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,6700,6710,6720,6730</location>
+			<title>ZDFinfo HD</title>
+			<creator> ZDFvision</creator>
+			<album>TV Öffentlich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>278</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10891&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5330,5331,5332,5334</location>
+			<title>MDR S-Anhalt HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Nord</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>279</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12110&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,2900,2901,2902,2904</location>
+			<title>MDR S-Anhalt</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Nord</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>280</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11583&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5240,5221,5222,5224</location>
+			<title>NDR FS HH HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Nord</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>281</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11583&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5230,5221,5222,5224</location>
+			<title>NDR FS MV HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Nord</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>282</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12110&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,2600,2601,2602,2604</location>
+			<title>NDR FS NDS</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Nord</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>283</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11583&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5220,5221,5222,5224</location>
+			<title>NDR FS NDS HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Nord</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>284</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12110&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,2700,2601,2602,2604</location>
+			<title>NDR FS SH</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Nord</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>285</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11583&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5250,5221,5222,5224</location>
+			<title>NDR FS SH HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Nord</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>286</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10891&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5340,5331,5332,5334</location>
+			<title>MDR Thüringen HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Ost</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>287</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12110&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,3000,2901,2902,2904</location>
+			<title>MDR Thüringen</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Ost</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>288</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10891&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5320,5331,5332,5334</location>
+			<title>MDR Sachsen HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Ost</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>289</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10891&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5300,5311,5312,5314</location>
+			<title>rbb Brandenburg HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Ost</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>290</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12110&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,500,601,602,604</location>
+			<title>rbb Brandenburg</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Ost</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>291</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12110&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,600,601,602,604</location>
+			<title>rbb Berlin</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Ost</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>292</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12110&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,2800,2901,2902,2904</location>
+			<title>MDR Sachsen</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Ost</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>293</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10891&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5310,5311,5312,5314</location>
+			<title>rbb Berlin HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Ost</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>294</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11837&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,500,201,202,204</location>
+			<title>Bayerisches FS Nord</title>
+			<creator>ARD</creator>
+			<album>TV Öffentlich Süd</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>295</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12266&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1300,1301,1302,1304</location>
+			<title>SR Fernsehen</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Süd</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>296</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11583&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5200,5201,5202,5204</location>
+			<title>BR Süd HD</title>
+			<creator>ARD</creator>
+			<album>TV Öffentlich Süd</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>297</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11583&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5210,5201,5202,5204</location>
+			<title>BR Nord HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Süd</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>298</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11837&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,200,201,202,204</location>
+			<title>Bayerisches FS Süd</title>
+			<creator>ARD</creator>
+			<album>TV Öffentlich Süd</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>299</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11494&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5130,5121,5122,5134</location>
+			<title>SWR RP HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Süd</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>300</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11494&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5120,5121,5122,5124</location>
+			<title>SWR BW HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Süd</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>301</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11837&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,800,801,802,804</location>
+			<title>SWR Fernsehen BW</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Süd</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>302</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12110&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,3100,3101,3102,3104</location>
+			<title>SWR Fernsehen RP</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich Süd</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>303</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=10891&amp;plts=off&amp;pol=h&amp;msys=dvbs2&amp;mtype=8psk&amp;plts=off&amp;ro=0.35&amp;sr=22000&amp;fec=23&amp;pids=0,18,5350,5351,5352,5354</location>
+			<title>hr-fernsehen HD</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>304</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11837&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,300,301,302,304</location>
+			<title>hr-fernsehen</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>305</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,3400,3401,3402,3804</location>
+			<title>WDR Aachen</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>306</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,300,501,502,504</location>
+			<title>WDR Bielefeld</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>307</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,3600,3401,3402,3804</location>
+			<title>WDR Bonn</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>308</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,400,501,502,504</location>
+			<title>WDR Dortmund</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>309</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,3700,3401,3402,3804</location>
+			<title>WDR Duisburg</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>310</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,500,501,502,504</location>
+			<title>WDR Düsseldorf</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>311</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,600,501,502,504</location>
+			<title>WDR Essen</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>312</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,5600,5601,5602,5604</location>
+			<title>WDR HD Aachen</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>313</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,5510,5501,5502,5504</location>
+			<title>WDR HD Bielefeld</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>314</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,5620,5601,5602,5604</location>
+			<title>WDR HD Bonn</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>315</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,5520,5501,5502,5504</location>
+			<title>WDR HD Dortmund</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>316</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,5630,5601,5602,5604</location>
+			<title>WDR HD Duisburg</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>317</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,5530,5501,5502,5504</location>
+			<title>WDR HD Düsseldorf</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>318</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,5540,5501,5502,5504</location>
+			<title>WDR HD Essen</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>319</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,5500,5501,5502,5504</location>
+			<title>WDR HD Köln</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>320</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,5550,5501,5502,5504</location>
+			<title>WDR HD Münster</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>321</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,5560,5501,5502,5504</location>
+			<title>WDR HD Siegen</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>322</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,5610,5601,5602,5604</location>
+			<title>WDR HD Wuppertal</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>323</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=11837&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,600,601,602,604</location>
+			<title>WDR Köln</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>324</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,700,501,502,504</location>
+			<title>WDR Münster</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>325</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,800,501,502,504</location>
+			<title>WDR Siegen</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>326</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12422&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=27500&amp;fec=34&amp;pids=0,18,1500,501,502,504</location>
+			<title>WDR Test A</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>327</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12604&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,3500,3401,3402,3804</location>
+			<title>WDR Wuppertal</title>
+			<creator> ARD</creator>
+			<album>TV Öffentlich West</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>328</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12693&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1003,130,131,0</location>
+			<title>HITRADIO OE3</title>
+			<creator> ORF</creator>
+			<album>TV Österreich</album>
+
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>329</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>rtsp://127.0.0.7:8554/?src=1&amp;freq=12693&amp;plts=off&amp;pol=h&amp;msys=dvbs&amp;sr=22000&amp;fec=56&amp;pids=0,18,1004,170,171,505</location>
+			<title>ORF2E</title>
+			<creator> ORF</creator>
+			<album>TV Österreich</album>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>330</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+			<vlc:item tid="86"/>
+			<vlc:item tid="87"/>
+			<vlc:item tid="88"/>
+			<vlc:item tid="89"/>
+			<vlc:item tid="90"/>
+			<vlc:item tid="91"/>
+			<vlc:item tid="92"/>
+			<vlc:item tid="93"/>
+			<vlc:item tid="94"/>
+			<vlc:item tid="95"/>
+			<vlc:item tid="96"/>
+			<vlc:item tid="97"/>
+			<vlc:item tid="98"/>
+			<vlc:item tid="99"/>
+			<vlc:item tid="100"/>
+			<vlc:item tid="101"/>
+			<vlc:item tid="102"/>
+			<vlc:item tid="103"/>
+			<vlc:item tid="104"/>
+			<vlc:item tid="105"/>
+			<vlc:item tid="106"/>
+			<vlc:item tid="107"/>
+			<vlc:item tid="108"/>
+			<vlc:item tid="109"/>
+			<vlc:item tid="110"/>
+			<vlc:item tid="111"/>
+			<vlc:item tid="112"/>
+			<vlc:item tid="113"/>
+			<vlc:item tid="114"/>
+			<vlc:item tid="115"/>
+			<vlc:item tid="116"/>
+			<vlc:item tid="117"/>
+			<vlc:item tid="118"/>
+			<vlc:item tid="119"/>
+			<vlc:item tid="120"/>
+			<vlc:item tid="121"/>
+			<vlc:item tid="122"/>
+			<vlc:item tid="123"/>
+			<vlc:item tid="124"/>
+			<vlc:item tid="125"/>
+			<vlc:item tid="126"/>
+			<vlc:item tid="127"/>
+			<vlc:item tid="128"/>
+			<vlc:item tid="129"/>
+			<vlc:item tid="130"/>
+			<vlc:item tid="131"/>
+			<vlc:item tid="132"/>
+			<vlc:item tid="133"/>
+			<vlc:item tid="134"/>
+			<vlc:item tid="135"/>
+			<vlc:item tid="136"/>
+			<vlc:item tid="137"/>
+			<vlc:item tid="138"/>
+			<vlc:item tid="139"/>
+			<vlc:item tid="140"/>
+			<vlc:item tid="141"/>
+			<vlc:item tid="142"/>
+			<vlc:item tid="143"/>
+			<vlc:item tid="144"/>
+			<vlc:item tid="145"/>
+			<vlc:item tid="146"/>
+			<vlc:item tid="147"/>
+			<vlc:item tid="148"/>
+			<vlc:item tid="149"/>
+			<vlc:item tid="150"/>
+			<vlc:item tid="151"/>
+			<vlc:item tid="152"/>
+			<vlc:item tid="153"/>
+			<vlc:item tid="154"/>
+			<vlc:item tid="155"/>
+			<vlc:item tid="156"/>
+			<vlc:item tid="157"/>
+			<vlc:item tid="158"/>
+			<vlc:item tid="159"/>
+			<vlc:item tid="160"/>
+			<vlc:item tid="161"/>
+			<vlc:item tid="162"/>
+			<vlc:item tid="163"/>
+			<vlc:item tid="164"/>
+			<vlc:item tid="165"/>
+			<vlc:item tid="166"/>
+			<vlc:item tid="167"/>
+			<vlc:item tid="168"/>
+			<vlc:item tid="169"/>
+			<vlc:item tid="170"/>
+			<vlc:item tid="171"/>
+			<vlc:item tid="172"/>
+			<vlc:item tid="173"/>
+			<vlc:item tid="174"/>
+			<vlc:item tid="175"/>
+			<vlc:item tid="176"/>
+			<vlc:item tid="177"/>
+			<vlc:item tid="178"/>
+			<vlc:item tid="179"/>
+			<vlc:item tid="180"/>
+			<vlc:item tid="181"/>
+			<vlc:item tid="182"/>
+			<vlc:item tid="183"/>
+			<vlc:item tid="184"/>
+			<vlc:item tid="185"/>
+			<vlc:item tid="186"/>
+			<vlc:item tid="187"/>
+			<vlc:item tid="188"/>
+			<vlc:item tid="189"/>
+			<vlc:item tid="190"/>
+			<vlc:item tid="191"/>
+			<vlc:item tid="192"/>
+			<vlc:item tid="193"/>
+			<vlc:item tid="194"/>
+			<vlc:item tid="195"/>
+			<vlc:item tid="196"/>
+			<vlc:item tid="197"/>
+			<vlc:item tid="198"/>
+			<vlc:item tid="199"/>
+			<vlc:item tid="200"/>
+			<vlc:item tid="201"/>
+			<vlc:item tid="202"/>
+			<vlc:item tid="203"/>
+			<vlc:item tid="204"/>
+			<vlc:item tid="205"/>
+			<vlc:item tid="206"/>
+			<vlc:item tid="207"/>
+			<vlc:item tid="208"/>
+			<vlc:item tid="209"/>
+			<vlc:item tid="210"/>
+			<vlc:item tid="211"/>
+			<vlc:item tid="212"/>
+			<vlc:item tid="213"/>
+			<vlc:item tid="214"/>
+			<vlc:item tid="215"/>
+			<vlc:item tid="216"/>
+			<vlc:item tid="217"/>
+			<vlc:item tid="218"/>
+			<vlc:item tid="219"/>
+			<vlc:item tid="220"/>
+			<vlc:item tid="221"/>
+			<vlc:item tid="222"/>
+			<vlc:item tid="223"/>
+			<vlc:item tid="224"/>
+			<vlc:item tid="225"/>
+			<vlc:item tid="226"/>
+			<vlc:item tid="227"/>
+			<vlc:item tid="228"/>
+			<vlc:item tid="229"/>
+			<vlc:item tid="230"/>
+			<vlc:item tid="231"/>
+			<vlc:item tid="232"/>
+			<vlc:item tid="233"/>
+			<vlc:item tid="234"/>
+			<vlc:item tid="235"/>
+			<vlc:item tid="236"/>
+			<vlc:item tid="237"/>
+			<vlc:item tid="238"/>
+			<vlc:item tid="239"/>
+			<vlc:item tid="240"/>
+			<vlc:item tid="241"/>
+			<vlc:item tid="242"/>
+			<vlc:item tid="243"/>
+			<vlc:item tid="244"/>
+			<vlc:item tid="245"/>
+			<vlc:item tid="246"/>
+			<vlc:item tid="247"/>
+			<vlc:item tid="248"/>
+			<vlc:item tid="249"/>
+			<vlc:item tid="250"/>
+			<vlc:item tid="251"/>
+			<vlc:item tid="252"/>
+			<vlc:item tid="253"/>
+			<vlc:item tid="254"/>
+			<vlc:item tid="255"/>
+			<vlc:item tid="256"/>
+			<vlc:item tid="257"/>
+			<vlc:item tid="258"/>
+			<vlc:item tid="259"/>
+			<vlc:item tid="260"/>
+			<vlc:item tid="261"/>
+			<vlc:item tid="262"/>
+			<vlc:item tid="263"/>
+			<vlc:item tid="264"/>
+			<vlc:item tid="265"/>
+			<vlc:item tid="266"/>
+			<vlc:item tid="267"/>
+			<vlc:item tid="268"/>
+			<vlc:item tid="269"/>
+			<vlc:item tid="270"/>
+			<vlc:item tid="271"/>
+			<vlc:item tid="272"/>
+			<vlc:item tid="273"/>
+			<vlc:item tid="274"/>
+			<vlc:item tid="275"/>
+			<vlc:item tid="276"/>
+			<vlc:item tid="277"/>
+			<vlc:item tid="278"/>
+			<vlc:item tid="279"/>
+			<vlc:item tid="280"/>
+			<vlc:item tid="281"/>
+			<vlc:item tid="282"/>
+			<vlc:item tid="283"/>
+			<vlc:item tid="284"/>
+			<vlc:item tid="285"/>
+			<vlc:item tid="286"/>
+			<vlc:item tid="287"/>
+			<vlc:item tid="288"/>
+			<vlc:item tid="289"/>
+			<vlc:item tid="290"/>
+			<vlc:item tid="291"/>
+			<vlc:item tid="292"/>
+			<vlc:item tid="293"/>
+			<vlc:item tid="294"/>
+			<vlc:item tid="295"/>
+			<vlc:item tid="296"/>
+			<vlc:item tid="297"/>
+			<vlc:item tid="298"/>
+			<vlc:item tid="299"/>
+			<vlc:item tid="300"/>
+			<vlc:item tid="301"/>
+			<vlc:item tid="302"/>
+			<vlc:item tid="303"/>
+			<vlc:item tid="304"/>
+			<vlc:item tid="305"/>
+			<vlc:item tid="306"/>
+			<vlc:item tid="307"/>
+			<vlc:item tid="308"/>
+			<vlc:item tid="309"/>
+			<vlc:item tid="310"/>
+			<vlc:item tid="311"/>
+			<vlc:item tid="312"/>
+			<vlc:item tid="313"/>
+			<vlc:item tid="314"/>
+			<vlc:item tid="315"/>
+			<vlc:item tid="316"/>
+			<vlc:item tid="317"/>
+			<vlc:item tid="318"/>
+			<vlc:item tid="319"/>
+			<vlc:item tid="320"/>
+			<vlc:item tid="321"/>
+			<vlc:item tid="322"/>
+			<vlc:item tid="323"/>
+			<vlc:item tid="324"/>
+			<vlc:item tid="325"/>
+			<vlc:item tid="326"/>
+			<vlc:item tid="327"/>
+			<vlc:item tid="328"/>
+			<vlc:item tid="329"/>
+			<vlc:item tid="330"/>
+	</extension>
+</playlist>
